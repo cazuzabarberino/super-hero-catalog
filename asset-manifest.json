@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/super-hero-catalog/static/js/main.8f40428e.chunk.js",
-    "main.js.map": "/super-hero-catalog/static/js/main.8f40428e.chunk.js.map",
+    "main.js": "/super-hero-catalog/static/js/main.9cf5ff5a.chunk.js",
+    "main.js.map": "/super-hero-catalog/static/js/main.9cf5ff5a.chunk.js.map",
     "runtime-main.js": "/super-hero-catalog/static/js/runtime-main.801123ae.js",
     "runtime-main.js.map": "/super-hero-catalog/static/js/runtime-main.801123ae.js.map",
-    "static/js/2.c3bb1b32.chunk.js": "/super-hero-catalog/static/js/2.c3bb1b32.chunk.js",
-    "static/js/2.c3bb1b32.chunk.js.map": "/super-hero-catalog/static/js/2.c3bb1b32.chunk.js.map",
+    "static/js/2.4152d1bb.chunk.js": "/super-hero-catalog/static/js/2.4152d1bb.chunk.js",
+    "static/js/2.4152d1bb.chunk.js.map": "/super-hero-catalog/static/js/2.4152d1bb.chunk.js.map",
     "index.html": "/super-hero-catalog/index.html",
-    "precache-manifest.957524a652d626178cffcd734de863cd.js": "/super-hero-catalog/precache-manifest.957524a652d626178cffcd734de863cd.js",
+    "precache-manifest.87868d737d93126b6b80cabb5f513ff6.js": "/super-hero-catalog/precache-manifest.87868d737d93126b6b80cabb5f513ff6.js",
     "service-worker.js": "/super-hero-catalog/service-worker.js",
-    "static/js/2.c3bb1b32.chunk.js.LICENSE.txt": "/super-hero-catalog/static/js/2.c3bb1b32.chunk.js.LICENSE.txt"
+    "static/js/2.4152d1bb.chunk.js.LICENSE.txt": "/super-hero-catalog/static/js/2.4152d1bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.801123ae.js",
-    "static/js/2.c3bb1b32.chunk.js",
-    "static/js/main.8f40428e.chunk.js"
+    "static/js/2.4152d1bb.chunk.js",
+    "static/js/main.9cf5ff5a.chunk.js"
   ]
 }
