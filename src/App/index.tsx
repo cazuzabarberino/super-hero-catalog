@@ -1,15 +1,19 @@
 import React from "react";
-import Dashboard from "./pages/Dashboard";
+import Home from "./pages/Home";
 import { GlobalStyle } from "./global/GlobalStyle";
 import { theme } from "./global/theme";
 import { ThemeProvider } from "styled-components";
+import { Provider } from "react-redux";
+import { store } from "../redux";
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <GlobalStyle />
-      <Dashboard />
-    </ThemeProvider>
+    <Provider store={store}>
+      <ThemeProvider theme={theme}>
+        <GlobalStyle />
+        <Home />
+      </ThemeProvider>
+    </Provider>
   );
 }
 
