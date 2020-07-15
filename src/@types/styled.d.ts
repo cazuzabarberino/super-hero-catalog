@@ -7,6 +7,8 @@ declare module "styled-components" {
       secondary: string;
       fontPrimary: string;
       fontSecondary: string;
+      goodHero: string;
+      badHero: string;
     };
   }
 }

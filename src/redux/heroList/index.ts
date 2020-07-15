@@ -2,7 +2,7 @@ import { HeroListAction, HeroListState, HeroListActionType } from "./types";
 
 const initialState: HeroListState = {
   currentPage: 1,
-  heroesPerPage: 10,
+  heroesPerPage: 12,
   heroes: [],
 };
 

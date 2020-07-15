@@ -7,9 +7,11 @@ interface Props {
 }
 
 function HeroCard({ hero }: Props) {
+  if (!hero) return <h1>loading</h1>;
+
   return (
     <Container alignment={hero.biography.alignment}>
-      <h3>{hero.name}</h3>
+      <p>{hero.name}</p>
       <HeroImg url={hero.image.url} />
     </Container>
   );
